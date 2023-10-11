@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I am a data analyst and web developer with a passion for technology and finance. I have experience in data management, quality assurance, web development, and financial reporting. I have also participated in the 2023 CFA Equity Research Challenge on MTN Uganda. I am currently learning JavaScript at Kanzu Code Foundation’s bootcamp (frontend). I have skills in web development, data analysis and visualization, and project support using Microsoft Project. I have a bachelor’s degree in business administration (finance major) from Makerere University Business School. I have also completed various online courses and trainings. I seek to contribute to innovative financial solutions using technology. I am always eager to learn new things and collaborate with others on exciting projects. You can check out some of my work on my Github profile or contact me via email or LinkedIn. Thank you for your interest in me and my work.
+I am a Ugandan Frontend developer with an enormous passion for technology and finance (FINTECH). I have experience spaning over  web development, data management, quality assurance,and financial reporting. I am currently learning JavaScript at Kanzu Code Foundation’s bootcamp (frontend). I have skills in web development, data analysis and visualization, and project support using Microsoft Project. I seek to contribute to innovative financial solutions using technology. I am always eager to learn new things and collaborate with others on exciting projects. Thank you for your interest in me and my work.
 
 * 🌍  I'm based in Kampala, Uganda
-* ✉️  You can contact me at [douglasothieno@gmail.com](mailto:douglasothieno@gmail.com)
+* ✉️  You can contact me at [douglasothieno@gmail.com](mailto:douglasothieno@gmail.com) or Tel: (256-785-095154)
 * 🧠  I'm learning HTML, CSS, JS & DOM
 * 🤝  I'm open to collaborating on PROJECTS
 
