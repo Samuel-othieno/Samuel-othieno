@@ -11,7 +11,10 @@ Education and training: Bachelor’s degree in business administration (finance 
 You can check out some of my work on my [GitHub profile] or visit my [portfolio website].
 
 ### How to reach me 📫
-You can contact me via douglasothieno@gmail.com or [LinkedIn]. I would love to hear from you and collaborate on exciting projects.
+You can contact me via douglasothieno@gmail.com, https://www.linkedin.com/in/samuel-douglas-othieno-80484628a
+in/samuel-douglas-othieno-80484628a
+@home
+https://instagram.com/samuel.othieno?utm_source=qr&igshid=YzU1NGVlODEzOA==. I would love to hear from you and collaborate on exciting projects.
 
 Thank you for your interest in me and my work 😊
 (https://github-readme-stats.vercel.app/api?username=Samuel-othieno_icons=true&theme=radical)
