@@ -14,4 +14,4 @@ You can check out some of my work on my [GitHub profile] or visit my [portfolio 
 You can contact me via [email] or [LinkedIn]. I would love to hear from you and collaborate on exciting projects.
 
 Thank you for your interest in me and my work 😊
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samuel-othieno_icons=true&theme=radical)
+(https://github-readme-stats.vercel.app/api?username=Samuel-othieno_icons=true&theme=radical)
