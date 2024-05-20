@@ -1,6 +1,7 @@
+<img src="sam.jpg" width="800" height="400"/>
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Samuel Douglas Othieno
 ==============================================================================================================================================
-<img src="sam.jpg" width="400" height="400"/>
 
 FULL-STACK DEVELOPER
 --------------------  
