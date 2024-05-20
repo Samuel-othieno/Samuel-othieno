@@ -6,7 +6,7 @@ FULL-STACK DEVELOPER
 --------------------
 
 
-<img src="https://photos.google.com/photo/AF1QipPgTycML7jorQg2TijILCU8kCF_8Ohr2aRrgNf8"/>
+<img src="[https://photos.google.com/photo/AF1QipPgTycML7jorQg2TijILCU8kCF_8Ohr2aRrgNf8](https://photos.app.goo.gl/89etkGtGg9TgGTeL9)"/>
 
   
 A tech enthusiast from Uganda, blending a love for coding and finance into innovative solutions. My journey has taken me from web design to the intricate world of data, and now, I'm diving deep into back-end technologies. 🌟 Currently, I'm polishing my skills in Node.js, Express.js, and PostgreSQL at Kanzu Code Foundation's Backend boot camp, gearing up for the next big thing in FINTECH. ✨ Looking Forward: In the tech landscape, change is the only constant. Over the next couple of years, I aim to be at the cutting edge, contributing to projects that redefine financial tech. Thanks for dropping by!
